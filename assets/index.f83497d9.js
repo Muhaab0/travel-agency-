@@ -769,4 +769,4 @@ Error generating stack: `+i.message+`
       }
     }
   }
-`;function Xg(){return M("div",{children:[v(Tg,{}),v(xg,{}),v(pg,{}),v(jg,{}),v(rg,{}),v(Ag,{}),v(Kg,{}),v(Ug,{}),v(ag,{}),v(cg,{})]})}function Jg(){return v("div",{children:v(Hm,{children:v(wd,{path:"/",element:v(Xg,{})})})})}yo.createRoot(document.getElementById("root")).render(v(Ym,{basename:"/",children:v(Jg,{})}));
+`;function Xg(){return M("div",{children:[v(Tg,{}),v(xg,{}),v(pg,{}),v(jg,{}),v(rg,{}),v(Ag,{}),v(Kg,{}),v(Ug,{}),v(ag,{}),v(cg,{})]})}function Jg(){return v("div",{children:v(Hm,{children:v(wd,{path:"/",index:!0,element:v(Xg,{})})})})}yo.createRoot(document.getElementById("root")).render(v(Ym,{basename:"/",children:v(Jg,{})}));
